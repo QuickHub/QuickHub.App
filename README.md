@@ -1,7 +1,6 @@
 #QuickHub.App
 
-Open sourced later this year...
+Deprecated, check it at https://github.com/chamerling/QuickHubApp
 
-Access to your @github resources quickly from your OSX status bar.
 
 http://quickhubapp.com
